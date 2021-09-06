@@ -6,7 +6,7 @@
 }
 .wrapper{
     height: 200vh;
-    background: rgb(83, 153, 165);
+    background: rgb(211, 211, 92);
 }
 .dropDown{
     position: absolute;
@@ -75,9 +75,8 @@ display: block;
     font-size: 16px;
 }
 .dropDown ul a:hover,.dropDown ul li .button:hover{
-color: rgb(92, 205, 152);
+color: indianred;
 }
-
 input{
     display: none;
 }
